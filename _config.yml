@@ -3,7 +3,7 @@ title: Kellan
 SEOTitle: kellan Blok | 写作者
 header-img: img/home-bg.jpg
 email: reallykellan@gmail.com
-description: "这里是 @Kellan 的个人博客，与你一起发现更大的世界 | 要做一个有 生活乐趣的发现者"
+description: "这里是 @Kellan 的个人博客，与你一起发现更大的世界 | 要做一个生活乐趣的发现者"
 keyword: "Kellan, 世界, 乐趣, 生活, 博客, Kellan Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://kellan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -17,7 +17,7 @@ weibo_username: hardysea
 zhihu_username: hardysea
 github_username: hardysea
 twitter_username: hardysea1
-#facebook_username:  huxpro
+#facebook_username:  kellan
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -70,12 +70,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: kellan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个生活乐趣的发现者 <br> React Team @ Meta"
+sidebar-avatar: https://github.com/hardysea.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
