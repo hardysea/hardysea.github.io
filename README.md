@@ -1,4 +1,4 @@
-[Hux Blog](https://hardysea.me)
+[Kellan Blog](https://hardysea.me)
 ================================
 
 > I never expect this becomes popular.
